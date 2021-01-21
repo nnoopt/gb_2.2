@@ -1,4 +1,4 @@
 package com.company.GB8;
 
-public class MyArraySizeException extends RuntimeException {
+public class MyArraySizeException extends RuntimeException {  
 }
