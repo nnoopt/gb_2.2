@@ -17,4 +17,5 @@ public class MyArrayDataException extends RuntimeException {
         this.row = row;
         this.col = col;
     }
+    
 }

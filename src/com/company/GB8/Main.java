@@ -24,8 +24,6 @@ public class Main {
             System.out.println(mas [e.getRow()] [e.getCol()]);
         }
 
-
-
     }
 
 
