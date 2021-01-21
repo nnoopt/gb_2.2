@@ -46,6 +46,5 @@ public class Main {
         }
 
         return sum;
-
     }
 }
